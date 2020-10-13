@@ -573,6 +573,7 @@ header.masthead .intro-text .intro-heading {
     border-radius: 50%;
     padding: 0%;
     border: 0px;
+    margin-bottom: 5px;
     
 }
 .team-member h4 {
@@ -783,4 +784,5 @@ fieldset[disabled] .btn-xl:hover {
     border-radius: 50%;
     padding: 0%;
     border: 0px;
+    margin-bottom: 5px;
 }
