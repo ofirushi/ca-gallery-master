@@ -566,6 +566,15 @@ header.masthead .intro-text .intro-heading {
     height: 225px;
     border: 7px solid white;
 }
+
+.team-member .melon{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    padding: 0%;
+    border: 0px;
+    
+}
 .team-member h4 {
     margin-top: 25px;
     margin-bottom: 0;
@@ -766,4 +775,12 @@ fieldset[disabled] .btn-xl:hover {
 .container {
     padding-right: 0;
     padding-left: 0;
+}
+
+.melon{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    padding: 0%;
+    border: 0px;
 }

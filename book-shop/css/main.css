@@ -1,0 +1,31 @@
+body{
+    background-color: cadetblue;
+}
+
+.add-book{
+    background-color: bisque;
+}
+
+header{
+    background-color: white;
+}
+button{
+    margin: 5px;
+}
+.modal{
+    background-color: brown;
+    /* width: 300px; */
+   /* height: 300px; */
+   position: absolute;
+   left: 50%;
+   top: 50%; 
+   margin-left: -150px;
+   margin-top: -150px;
+
+}
+
+.modal .close-modal{
+    position: absolute;
+    top:0%;
+    right: 0%
+}
